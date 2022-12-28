@@ -155,45 +155,45 @@
     - - [ ] interval problems
 - [ ] Hashmaps
     - - [x] Introduction
-    - - [x] Theory - how it works
-    - - [x] Comparisons of various forms
-    - - [x] Limitations and how to solve
-    - - [x] Map using LinkedList
-    - - [x] Map using Hash
-    - - [x] Chaining
-    - - [x] Probing
+    - - [ ] Theory - how it works
+    - - [ ] Comparisons of various forms
+    - - [] Limitations and how to solve
+    - - [] Map using LinkedList
+    - - [] Map using Hash
+    - - [] Chaining
+    - - [ ] Probing
     - - [ ] Huffman-Encoder
 - [ ] Tries
-    - - [x] Introduction
-    - - [x] Theory - how it works
-    - - [x] Applications
-    - - [x] Insert and Search
+    - - [ ] Introduction
+    - - [ ] Theory - how it works
+    - - [ ] Applications
+    - - [ ] Insert and Search
     - - [ ] GFG articles and Questions
     - - [ ] Interview Questions
 - [ ] Graphs
-    - - [x] Introduction
-    - - [x] BFS
-    - - [x] DFS
-    - - [x] Working with graph components
-    - - [x] Bipartite Graph
-    - - [x] LC Questions
+    - - [ ] Introduction
+    - - [ ] BFS
+    - - [ ] DFS
+    - - [ ] Working with graph components
+    - - [ ] Bipartite Graph
+    - - [ ] LC Questions
     - - [ ] Minimum Spanning Trees
     - - [ ] Kruskal Algorithm
     - - [ ] Prims Algorithm
-    - - [x] Dijkstra’s shortest path algorithm
-    - - [x] Topological Sort
-    - - [x] Kahn's Algorithm
+    - - [ ] Dijkstra’s shortest path algorithm
+    - - [ ] Topological Sort
+    - - [ ] Kahn's Algorithm
     - - [ ] Bellman ford
     - - [ ] A* pathfinding Algorithm
 - [ ] Greedy Algorithms
-    - - [x] Introduction
-    - - [x] Applications
-    - - [x] LC,GFG Questions
+    - - [ ] Introduction
+    - - [ ] Applications
+    - - [ ] LC,GFG Questions
     - - [ ] Interview Questions
 
 ### Advanced concepts apart from interviews 
 - [ ] Fast IO
-- [x] File handling
+- [ ] File handling
 - [ ] Bitwise + DP
 - [ ] Extended Euclidean algorithm
 - [ ] Modulo Multiplicative Inverse
@@ -204,10 +204,10 @@
 - [ ] Fermat’s Theorem
 - [ ] Wilson's Theorem
 - [ ] Euler's Theorem
-- [x] Lucas Theorem
-- [x] Chinese Remainder Theorem
+- [ ] Lucas Theorem
+- [ ] Chinese Remainder Theorem
 - [ ] Euler Totient
 - [ ] NP-Completeness
-- [x] Multithreading
+- [ ] Multithreading
 - [ ] Fenwick Tree / Binary Indexed Tree
 - [ ] Square Root Decomposition
